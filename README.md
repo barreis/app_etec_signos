@@ -1,6 +1,6 @@
 # signos_app
 
- Projeto Etec Sebrae Prof.Francisco.
+Projeto do curso de Especialização de Android.
 
 ## Getting Started
 
